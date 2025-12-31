@@ -235,7 +235,7 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-65" value="多目标优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-66" value="多目标优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-66" value="RRT*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.435;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="u6nlDy1OxFDPjqdmQoBT-66">
