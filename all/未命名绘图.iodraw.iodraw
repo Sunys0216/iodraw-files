@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-42" value="SCARA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="70" height="40" as="geometry" />
+          <mxGeometry x="210" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-46" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="80" height="60" as="geometry" />
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-54" value="拉格朗日" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="360" y="290" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
