@@ -280,7 +280,7 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-73" value="强化学习驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1135" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-74" value="模型预测(MPC)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-74" value="多算法融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="160" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
