@@ -289,7 +289,7 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-76" value="模型+数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-77" value="能量最优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-77" value="RRT*+非线性规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-78" value="能量最优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
