@@ -36,7 +36,9 @@
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.482;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-12" target="u6nlDy1OxFDPjqdmQoBT-8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="490" y="90" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-12" value="早期阶段&lt;div&gt;1960s-1980s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -76,10 +78,10 @@
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="120" as="sourcePoint" />
-            <mxPoint x="590" y="160" as="targetPoint" />
+            <mxPoint x="490" y="130" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="130" />
+              <mxPoint x="700" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
