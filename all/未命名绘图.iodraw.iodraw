@@ -12,14 +12,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-1" target="u6nlDy1OxFDPjqdmQoBT-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="160" />
-              <mxPoint x="260" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-1" value="早期阶段&lt;div&gt;1960s-1980s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="260" height="70" as="geometry" />
         </mxCell>
@@ -55,6 +47,9 @@
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-16" value="早期阶段&lt;div&gt;1960s-1980s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
