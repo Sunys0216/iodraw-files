@@ -34,6 +34,12 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-13" value="引入动力学约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-14" value="引入动力学约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-15" value="引入动力学约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
