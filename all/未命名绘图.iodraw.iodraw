@@ -226,11 +226,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.859;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="300" as="sourcePoint" />
-            <mxPoint x="810" y="250" as="targetPoint" />
+            <mxPoint x="950" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-65" value="多目标优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
