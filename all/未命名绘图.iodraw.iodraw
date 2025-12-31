@@ -202,10 +202,16 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-60" value="笛卡尔空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.549;exitY=1.054;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-13">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.571;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.568;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-13" target="u6nlDy1OxFDPjqdmQoBT-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="300" as="sourcePoint" />
             <mxPoint x="900" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="810" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
