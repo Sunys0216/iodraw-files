@@ -51,20 +51,6 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-15" value="引入动力学约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="u6nlDy1OxFDPjqdmQoBT-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="80" as="targetPoint" />
-            <mxPoint x="480" y="130" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="490" y="130" />
-              <mxPoint x="490" y="79" />
-              <mxPoint x="585" y="79" />
-              <mxPoint x="585" y="120" />
-              <mxPoint x="680" y="120" />
-              <mxPoint x="680" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-16" value="早期阶段&lt;div&gt;1960s-1980s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="260" height="70" as="geometry" />
         </mxCell>
@@ -86,6 +72,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="210" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
