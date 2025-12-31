@@ -10,7 +10,7 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-2" value="点位控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6nlDy1OxFDPjqdmQoBT-3" value="三次多项式插值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
