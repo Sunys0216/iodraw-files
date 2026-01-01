@@ -92,12 +92,6 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-60" value="多目标优化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-65" value="PRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="220" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-66" value="RRT*" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="220" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-72" value="自适应&lt;span style=&quot;background-color: initial;&quot;&gt;动态规划(ADP)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="160" width="70" height="40" as="geometry" />
         </mxCell>
@@ -108,7 +102,7 @@
           <mxGeometry x="870" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-76" value="模型+数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="970" y="285" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-77" value="RRT*+非线性规划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="250" width="80" height="30" as="geometry" />
