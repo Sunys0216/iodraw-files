@@ -233,9 +233,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQEqjceWV849bhCdEgSH-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="VQEqjceWV849bhCdEgSH-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.51;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="u6nlDy1OxFDPjqdmQoBT-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="190" as="sourcePoint" />
+            <mxPoint x="600" y="120" as="sourcePoint" />
             <mxPoint x="590" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
