@@ -104,9 +104,6 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-73" value="强化学习&lt;div&gt;驱动(RL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-74" value="多算法融合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-75" value="采样+优化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="240" width="80" height="30" as="geometry" />
         </mxCell>
