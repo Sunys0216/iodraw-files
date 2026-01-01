@@ -93,7 +93,7 @@
           <mxGeometry x="730" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-65" value="PRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="220" width="40" height="30" as="geometry" />
+          <mxGeometry x="890" y="220" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-66" value="RRT*" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="220" width="40" height="30" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry x="1110" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-75" value="采样+优化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="910" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-76" value="模型+数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="230" width="80" height="30" as="geometry" />
