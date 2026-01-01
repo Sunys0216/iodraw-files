@@ -244,29 +244,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-68" value="智能阶段&lt;div&gt;2010s至今&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="30" width="260" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-72" value="自适应&lt;span style=&quot;background-color: initial;&quot;&gt;动态规划(ADP)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="160" width="70" height="40" as="geometry" />
+          <mxGeometry x="440" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-73" value="强化学习&lt;div&gt;驱动(RL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1135" y="160" width="70" height="40" as="geometry" />
+          <mxGeometry x="545" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-74" value="多算法融合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="160" width="70" height="40" as="geometry" />
+          <mxGeometry x="640" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-75" value="采样+优化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-76" value="模型+数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="630" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-77" value="RRT*+非线性规划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-78" value="能量最优" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="630" y="490" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
