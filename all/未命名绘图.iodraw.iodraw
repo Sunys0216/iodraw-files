@@ -93,10 +93,10 @@
           <mxGeometry x="730" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-65" value="PRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="880" y="220" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-66" value="RRT*" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="220" width="40" height="30" as="geometry" />
+          <mxGeometry x="840" y="220" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-72" value="自适应&lt;span style=&quot;background-color: initial;&quot;&gt;动态规划(ADP)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="160" width="70" height="40" as="geometry" />
