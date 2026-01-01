@@ -167,10 +167,13 @@
             <mxPoint x="250" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQEqjceWV849bhCdEgSH-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.529;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VQEqjceWV849bhCdEgSH-3">
+        <mxCell id="VQEqjceWV849bhCdEgSH-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.504;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VQEqjceWV849bhCdEgSH-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="170" as="sourcePoint" />
             <mxPoint x="190" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VQEqjceWV849bhCdEgSH-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.571;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.573;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-8" target="u6nlDy1OxFDPjqdmQoBT-49">
