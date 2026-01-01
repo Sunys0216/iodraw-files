@@ -34,9 +34,6 @@
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-9" value="引入动力学约束" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-12" value="发展阶段&lt;div&gt;1980s-2000s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="400" y="20" width="260" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-13" value="最优控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="70" height="40" as="geometry" />
         </mxCell>
@@ -270,6 +267,9 @@
         </mxCell>
         <mxCell id="VQEqjceWV849bhCdEgSH-3" value="成熟阶段&lt;div&gt;2000s-2010s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="20" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VQEqjceWV849bhCdEgSH-4" value="成熟阶段&lt;div&gt;2000s-2010s&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="340" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
