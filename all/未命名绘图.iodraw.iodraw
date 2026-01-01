@@ -84,7 +84,7 @@
           <mxGeometry x="550" y="290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-58" value="时间最优" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-59" value="能量最优" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="290" width="60" height="30" as="geometry" />
@@ -203,12 +203,12 @@
             <mxPoint x="599.9200000000001" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQEqjceWV849bhCdEgSH-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.568;exitY=0.996;exitDx=0;exitDy=0;entryX=0.663;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="u6nlDy1OxFDPjqdmQoBT-13" target="u6nlDy1OxFDPjqdmQoBT-58">
+        <mxCell id="VQEqjceWV849bhCdEgSH-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.568;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="674.8999999999999" y="200" as="sourcePoint" />
-            <mxPoint x="674.9" y="290" as="targetPoint" />
+            <mxPoint x="679.7599999999999" y="189.83999999999997" as="sourcePoint" />
+            <mxPoint x="685" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="240" />
+              <mxPoint x="680" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
