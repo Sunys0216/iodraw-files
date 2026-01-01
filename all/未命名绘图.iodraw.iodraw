@@ -114,7 +114,7 @@
           <mxGeometry x="900" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-78" value="能量最优" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="1100" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQEqjceWV849bhCdEgSH-1" value="自适应滑模控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="160" width="70" height="40" as="geometry" />
