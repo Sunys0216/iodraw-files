@@ -55,21 +55,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.56;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="u6nlDy1OxFDPjqdmQoBT-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="130" as="sourcePoint" />
-            <mxPoint x="700" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.568;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="u6nlDy1OxFDPjqdmQoBT-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="90" as="sourcePoint" />
-            <mxPoint x="590" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.564;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="u6nlDy1OxFDPjqdmQoBT-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="130" as="sourcePoint" />
@@ -109,24 +94,6 @@
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-51" value="笛卡尔空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="230" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.565;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u6nlDy1OxFDPjqdmQoBT-8" target="u6nlDy1OxFDPjqdmQoBT-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="340" as="sourcePoint" />
-            <mxPoint x="570" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.571;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="u6nlDy1OxFDPjqdmQoBT-49" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="210" as="sourcePoint" />
-            <mxPoint x="530" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-54" value="拉格朗日" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="290" width="70" height="30" as="geometry" />
