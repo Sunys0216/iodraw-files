@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="BgTlyMg8LU3WtAStpJBY">
-    <mxGraphModel dx="1121" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="542" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
           <mxGeometry x="190" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-49" value="关节空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="430" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-51" value="笛卡尔空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="230" width="70" height="30" as="geometry" />
@@ -100,21 +100,6 @@
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-55" value="动力学&lt;div&gt;可行轨迹&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="290" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.579;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.579;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="u6nlDy1OxFDPjqdmQoBT-9" target="u6nlDy1OxFDPjqdmQoBT-55" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="290" as="sourcePoint" />
-            <mxPoint x="490" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u6nlDy1OxFDPjqdmQoBT-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="u6nlDy1OxFDPjqdmQoBT-54" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="270" as="sourcePoint" />
-            <mxPoint x="490" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="270" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-58" value="时间最优" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="230" width="70" height="30" as="geometry" />
