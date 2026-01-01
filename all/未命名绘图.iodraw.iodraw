@@ -93,7 +93,7 @@
           <mxGeometry x="360" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-51" value="笛卡尔空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="455" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="490" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6nlDy1OxFDPjqdmQoBT-54" value="拉格朗日" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="290" width="70" height="30" as="geometry" />
